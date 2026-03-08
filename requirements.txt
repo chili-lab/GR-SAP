@@ -1,0 +1,14 @@
+datasets
+faiss-cpu
+gspread
+mauve-text
+numpy
+pandas
+peft
+sentence-transformers
+tabulate
+torch
+tqdm
+transformers
+trl
+vllm
