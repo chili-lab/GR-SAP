@@ -72,11 +72,6 @@ def extract_answer_sentiment(response):
         return 'negative'
     return None
 
-# ============================================================================
-# MATH answer comparison functions adapted from lm-evaluation-harness
-# https://github.com/EleutherAI/lm-evaluation-harness
-# ============================================================================
-
 def remove_boxed(s):
     """Remove \\boxed{} wrapper from a string."""
     if not s:
