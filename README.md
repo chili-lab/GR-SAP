@@ -1,6 +1,6 @@
 # GR-SAP
 
-This is repo for the paper ***GR-SAP: Generative Replay for Safety Alignment Preservation during Fine-Tuning***
+This is the repo for [GR-SAP: Generative Replay for Safety Alignment Preservation during Fine-Tuning](https://arxiv.org/abs/2603.10243)
 
 ## Data Processing
 
@@ -64,4 +64,18 @@ To evaluate the whole training dynamic (multiple checkpoints):
 ```
 python score_dir.py --checkpoint_dir $checkpoint_dir
 ```
+
+## Citation
+
+If you find this work useful, please cite us:
+
+@misc{fang2026grsapgenerativereplaysafety,
+      title={GR-SAP: Generative Replay for Safety Alignment Preservation during Fine-Tuning}, 
+      author={Zhouxiang Fang and Jiawei Zhou and Hanjie Chen},
+      year={2026},
+      eprint={2603.10243},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2603.10243}, 
+}
 
