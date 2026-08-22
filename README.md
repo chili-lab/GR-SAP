@@ -69,15 +69,11 @@ python score_dir.py --checkpoint_dir $checkpoint_dir
 
 If you find this work useful, please cite us:
 
-```
-@misc{fang2026grsapgenerativereplaysafety,
-      title={GR-SAP: Generative Replay for Safety Alignment Preservation during Fine-Tuning}, 
-      author={Zhouxiang Fang and Jiawei Zhou and Hanjie Chen},
-      year={2026},
-      eprint={2603.10243},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2603.10243}, 
+```bibtex
+@article{fang2026gr,
+  title={GR-SAP: Generative Replay for Safety Alignment Preservation during Fine-Tuning},
+  author={Fang, Zhouxiang and Zhou, Jiawei and Chen, Hanjie},
+  journal={arXiv preprint arXiv:2603.10243},
+  year={2026}
 }
-```
 
