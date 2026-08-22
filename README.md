@@ -1,5 +1,3 @@
-# GR-SAP
-
 This is the official repo for [***GR-SAP: Generative Replay for Safety Alignment Preservation during Fine-Tuning***](https://arxiv.org/abs/2603.10243), which is accepted as a main conference paper to EMNLP 2026.
 
 ## Data Processing
